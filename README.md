@@ -1,2 +1,2 @@
 # udemy-nerf
-Learning
+Implementing Neural Fields step by step
